@@ -3,20 +3,6 @@
 -- Última atualzação: 2025 05 08
 
 tbl = {
-	[0] = {
-		Server = "jRO",
-		unidentifiedDisplayName = "",
-		unidentifiedResourceName = "",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "",
-		identifiedResourceName = "",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[501] = {
 		unidentifiedDisplayName = "Poção Vermelha",
 		unidentifiedResourceName = "빨간포션",
