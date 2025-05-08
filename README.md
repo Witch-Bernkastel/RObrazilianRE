@@ -1,6 +1,7 @@
 # RObrazilianRE
 Projeto de tradução não-oficial para Português Brasileiro de Ragnarok Online (Renewal).
 Esta tradução pode ser distribuída e usada livremente.
+Este projeto segue um estilo de descrição de itens semelhante ao do bRO (Brazil Ragnarök Online).
 
 
 ## Status do Projeto
