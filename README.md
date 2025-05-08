@@ -1,5 +1,5 @@
 # RObrazilianRE
-Projeto de tradução brasileira não oficial do Ragnarok Online (Renewal).
+Projeto de tradução não-oficial para Português Brasileiro de Ragnarok Online (Renewal).
 Esta tradução pode ser distribuída e usada livremente.
 
 
@@ -15,4 +15,4 @@ Itens (Em andamento).
 6. GGHRO
 7. phRO / cRO
 
-Nota: esta é uma tradução **não oficial**. Ragnarok Online é propriedade da Gravity Co., Ltd. O projeto não tem fins lucrativos.
+Nota: Esta é uma tradução **não oficial**. Ragnarok Online é propriedade da Gravity Co., Ltd. O projeto não tem fins lucrativos.
