@@ -1,6 +1,6 @@
 -- Criado e atualizado em: https://github.com/Witch-Bernkastel/RObrazilianRE/
 -- Este arquivo pode ser distribuído, usado e modificado livremente
--- Última atualzação: 2025 05 08
+-- Última atualzação: 2025 05 09
 
 tbl = {
 	[501] = {
