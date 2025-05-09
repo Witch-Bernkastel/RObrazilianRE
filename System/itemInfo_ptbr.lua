@@ -1237,10 +1237,29 @@ tbl = {
 		identifiedResourceName = "ªÁ≈¡",
 		identifiedDescriptionName = {
 			"Um doce do qual se diz que d· sorte a quem o comer.",
+			"DÍ um clique duplo no item para usar.",
 			"--------------------------",
 			"^0000ffRecupera cerca de 45 a 65 de HP.^000000",
 			"--------------------------",
 			"Peso: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[571] = {
+		unidentifiedDisplayName = "Bengala Doce da Sorte",
+		unidentifiedResourceName = "∏∑¥ÎªÁ≈¡",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Bengala Doce da Sorte",
+		identifiedResourceName = "∏∑¥ÎªÁ≈¡",
+		identifiedDescriptionName = {
+			"Uma bengala doce da qual se diz que d· sorte a quem a comer.",
+			"DÍ um clique duplo no item para usar.",
+			"--------------------------",
+			"^0000ffRecupera cerca de 105 a 145 de HP.^000000",
+			"--------------------------",
+			"Peso: ^7777774^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
