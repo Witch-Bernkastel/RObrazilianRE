@@ -1265,4 +1265,22 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[572] = {
+		unidentifiedDisplayName = "Biscoito da Sorte",
+		unidentifiedResourceName = "Àß±¸¿îÄíÅ°",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Biscoito da Sorte",
+		identifiedResourceName = "Àß±¸¿îÄíÅ°",
+		identifiedDescriptionName = {
+			"Um biscoito do qual se diz que dá sorte a quem o comer.",
+			"Dê um clique duplo no item para usar.",
+			"--------------------------",
+			"^0000ffRecupera cerca de 165 a 200 de HP.^000000",
+			"--------------------------",
+			"Peso: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 }
