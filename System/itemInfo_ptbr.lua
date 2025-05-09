@@ -1089,7 +1089,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Pizza fondue suíça da Domino's: massa dupla com queijo derretido, manjericão, batata-doce e uma cobertura de fondue pra derreter o coração!",
 			"Dê um clique duplo no item para usar.",
-			"(Versão Degustação)",
+			"(Versão Delivery)",
 			"--------------------------",
 			"^0000ffRecupera cerca de 70 a 100 de HP.^000000",
 			"--------------------------",
