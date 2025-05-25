@@ -20,6 +20,7 @@ Itens (Em andamento).
 9. phRO
 10. cRO
 11. Outro
+
 Obs.: Colocarei o máximo de itens possíveis, se existir um item que não está listado em nenhum dos 10 primeiros, colocarei mesmo assim (11. Outros), colocando uma tag "Outro" no item em "Server". Caso haja algum erro, me avise.
 
 Nota: Esta é uma tradução **não oficial**. Ragnarok Online é propriedade da Gravity Co., Ltd. O projeto não tem fins lucrativos.
